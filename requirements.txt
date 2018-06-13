@@ -1,0 +1,4 @@
+requests
+lxml
+redis
+w3lib
